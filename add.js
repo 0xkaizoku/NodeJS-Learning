@@ -1,5 +1,7 @@
-const mult = (a ,b)=>{
-    return a * b;
+const add = (a ,b)=>{
+    return a + b;
 }
 
-console.log(mult(1,3));
+// console.log(add(1,3));
+
+module.exports = add;
