@@ -1,7 +1,5 @@
-const add = (a ,b)=>{
-    return a + b;
-}
+const a = "Hey";
+const b = "there";
+const c = "everyone";
 
-// console.log(add(1,3));
-
-module.exports = add;
+module.exports = {a,b,c}
