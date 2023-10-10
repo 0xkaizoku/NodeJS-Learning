@@ -1,6 +1,4 @@
-// console.log("Hey, there");
+require ("./add.js")
 
-function naam (){
-    console.log("Abhi");
-}
-naam();
+
+console.log("Wow");
